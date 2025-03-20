@@ -11,7 +11,7 @@ function HomePage() {
   useGSAP(
     () => {
       gsap.from(".box", {
-        x: 1200,
+        x: 200,
         y: 200,
         duration: 5,
       });
